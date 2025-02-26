@@ -1,4 +1,3 @@
-```
 Complete React Roadmap 🔥
 |
 |--- Fundamentals
